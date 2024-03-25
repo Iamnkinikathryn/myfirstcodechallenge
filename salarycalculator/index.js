@@ -52,6 +52,8 @@ const nhifRates = [
     salary: 100000,
     deduction: 1700
 }]
+
+// Calculate salary function takes your basic monthly income salary, calculates NHIF,NSSF and PAYE amount, then prints out net salary
 const calculateSalary = () => {
     let netIcome = 0
     let salary = Number(prompt("Enter basic monthly salary"))
