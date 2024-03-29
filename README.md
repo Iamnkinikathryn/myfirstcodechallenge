@@ -11,4 +11,3 @@ This program checks the speed of a car and decides if it’s too fast, giving po
 ## **Net Salary Calculator**
 This program calculates a person’s take-home pay after deducting taxes and other contributions from their salary and benefits. It’s useful for understanding how to perform arithmetic operations and deductions in programming.
 
-Each program is designed to be easy to use and helps in understanding basic programming concepts.
