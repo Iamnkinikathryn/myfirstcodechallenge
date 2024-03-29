@@ -1,15 +1,3 @@
-# myfirstcodechallenge
-Projects Directory
-salarycalculator
-speeddetectior
-studentgrader
-
-Salary Calculator
-Calculate salary function takes your basic monthly income salary, calculates NHIF,NSSF and PAYE amount, then prints out net salary
-
-Speed Detector
-Speed detector function checks the speed and prints the message as requested
-
-Student Grader
-Check grade function checks the input received and gives out the grade
-
+#Student Grade, Speed Detector, and Net Salary Calculator
+Description
+This repository contains three simple programs. The Student Grade Generator takes the marks a student has scored and tells what grade they get. The Speed Detector checks the speed of a car and decides if it’s too fast, giving points if it is, and can say if a driver should lose their license for speeding too much. The Net Salary Calculator works out a person’s take-home pay after taking away taxes and other deductions from their salary and added benefits. Each program is easy to use and helps understand basic programming concepts.
